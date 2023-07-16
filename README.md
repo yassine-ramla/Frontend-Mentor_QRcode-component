@@ -22,7 +22,8 @@ this is my first challenge in frontend mentor, a simple QR code screen.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/a-qr-code-component-built-using-html-and-css-glU6e8uNgG)
+- Live Site URL: [live site URL](https://yassine-ramla.github.io/Frontend-Mentor_QRcode-component/)
 
 ## My process
 
